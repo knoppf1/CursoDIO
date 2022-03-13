@@ -1,0 +1,2 @@
+# CursoDIO
+ Exercicio DOTNET
