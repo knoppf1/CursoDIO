@@ -1,0 +1,16 @@
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\CursoDIO.exe
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\CursoDIO.deps.json
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\CursoDIO.runtimeconfig.json
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\CursoDIO.runtimeconfig.dev.json
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\CursoDIO.dll
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\ref\CursoDIO.dll
+C:\Users\kerst\CursoDIO\bin\Debug\net5.0\CursoDIO.pdb
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.csproj.AssemblyReference.cache
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.AssemblyInfoInputs.cache
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.AssemblyInfo.cs
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.csproj.CoreCompileInputs.cache
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.dll
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\ref\CursoDIO.dll
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.pdb
+C:\Users\kerst\CursoDIO\obj\Debug\net5.0\CursoDIO.genruntimeconfig.cache
